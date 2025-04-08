@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 61e3729bdde7295438dcfb811492ee8c
+timeCreated: 1572398385
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 156819
+  packageName: POLYGON - Starter Pack
+  packageVersion: 1.0
+  assetPath: Assets/PolygonStarter/Scenes/Demo.unity
+  uploadId: 358311

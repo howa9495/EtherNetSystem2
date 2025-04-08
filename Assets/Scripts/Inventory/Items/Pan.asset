@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f01cccb2c080ea45b4d365239347695, type: 3}
+  m_Name: Pan
+  m_EditorClassIdentifier: 
+  _id: 6
+  name: Pan
+  sprite: {fileID: 21300000, guid: 1edfa4f4a4150f146b06cc25f0d1b7d8, type: 3}
+  itemType: 1
+  info: It's bulletproof.
+  equipmentPrefab: {fileID: 7255298686512555102, guid: d611f7a365952964b878a7956a6628b0, type: 3}
